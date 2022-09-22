@@ -1,0 +1,16 @@
+{
+  "name": "fake-api-mock-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anjantalatam/fake-api-mock-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
